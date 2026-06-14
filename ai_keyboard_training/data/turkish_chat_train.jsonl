@@ -1,0 +1,1004 @@
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok iyiyim teşekkü", "output": "Çok iyiyim teşekkür ederim."}
+{"text": "iyi geceler"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Toplantı ertelendi sa", "output": "Toplantı ertelendi saat 5e aldık."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Güzel bir gün geçir", "output": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "Seni", "completion": "özledim uzun zamandır görüşemedik.", "full_text": "Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "yarın sinemaya", "completion": "gidelim mi", "full_text": "yarın sinemaya gidelim mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sabah koşusu yaptım ç", "output": "Sabah koşusu yaptım çok iyi hissettim."}
+{"prompt": "Bugün", "completion": "hava çok güzel yürüyüşe çıkalım mı?", "full_text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "sınav çok", "completion": "zordu", "full_text": "sınav çok zordu"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok teşekkür ederim y", "output": "Çok teşekkür ederim yardımın için."}
+{"prompt": "telefonu", "completion": "güncelle bak", "full_text": "telefonu güncelle bak"}
+{"text": "günaydın nasılsın bugün"}
+{"prompt": "doktora", "completion": "gitmem lazım", "full_text": "doktora gitmem lazım"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Müzik kulağıma küpe", "output": "Müzik kulağıma küpe oldu o şarkı."}
+{"text": "bugün toplantı var mı"}
+{"text": "hadi kolay gelsin"}
+{"text": "Bugün müsait değilim yarın konuşalım. Raporu gönderdim kontrol edebilir misin?"}
+{"text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Güzel bir gün geçirdik ", "output": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "Güzel", "completion": "bir gün geçirdik tekrar edelim.", "full_text": "Güzel bir gün geçirdik tekrar edelim."}
+{"text": "merhaba nasılsın"}
+{"text": "Konser çok iyiydi keşke sen de gelseydin. Müzik kulağıma küpe oldu o şarkı."}
+{"prompt": "raporu", "completion": "gönderdim mi kontrolledin", "full_text": "raporu gönderdim mi kontrolledin"}
+{"prompt": "o ürünü", "completion": "aldın mı sonunda", "full_text": "o ürünü aldın mı sonunda"}
+{"prompt": "Çok teşekkür", "completion": "ederim yardımın için.", "full_text": "Çok teşekkür ederim yardımın için."}
+{"prompt": "akşam", "completion": "yemek yiyelim mi", "full_text": "akşam yemek yiyelim mi"}
+{"text": "öğle arası çıkıyorum"}
+{"text": "sınav nasıl gitti umarım iyidir"}
+{"prompt": "neredesin şu", "completion": "an", "full_text": "neredesin şu an"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Biraz hasta hissediyo", "output": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "doktora gitmem lazım"}
+{"prompt": "Çok güzel olmuş ellerine", "completion": "sağlık.", "full_text": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "Yarın erken kalkman gerekiyor dikkat", "completion": "et.", "full_text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"text": "Doktor randevusu aldım cuma günü."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Ödev var mı ya", "output": "Ödev var mı yarın teslim mi?"}
+{"text": "naber iyimisin"}
+{"text": "bugün biraz hasta hissettim"}
+{"text": "İndirim var bugün alışverişe çıkalım mı? Yarın saat 10da buluşalım tamam mı?"}
+{"text": "Uygulama güncellendi şimdi daha iyi. Haftasonu piknik var gelebilir misin?"}
+{"prompt": "kendine", "completion": "iyi bak", "full_text": "kendine iyi bak"}
+{"text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi. Toplantı ertelendi saat 5e aldık."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Konser çok iyiydi keşke", "output": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "uygulamayı indirdin mi"}
+{"text": "selam ne var ne yok"}
+{"prompt": "Özür", "completion": "dilerim geç kaldım yolda trafik vardı.", "full_text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "Sabah koşusu yaptım çok iyi", "completion": "hissettim.", "full_text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"prompt": "selam", "completion": "ne var ne yok", "full_text": "selam ne var ne yok"}
+{"text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"text": "Doktor randevusu aldım cuma günü."}
+{"prompt": "Ödev var", "completion": "mı yarın teslim mi?", "full_text": "Ödev var mı yarın teslim mi?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Şifreni unuttuysan sıfır", "output": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "Çay içmeye gelir misin bir ara?"}
+{"text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bana bir kahve alab", "output": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "Arkadaşlar buluşuyor sen de katıl."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Konser çok iyiydi keşk", "output": "Konser çok iyiydi keşke sen de gelseydin."}
+{"prompt": "markete gidiyorum bir", "completion": "şey lazım mı", "full_text": "markete gidiyorum bir şey lazım mı"}
+{"text": "tamam görüşürüz"}
+{"prompt": "kardeşim", "completion": "de geliyor", "full_text": "kardeşim de geliyor"}
+{"prompt": "akşam", "completion": "pizza söyleyelim mi", "full_text": "akşam pizza söyleyelim mi"}
+{"text": "çok teşekkür ederim"}
+{"prompt": "Yarın erken kalkman gerekiyor dikkat", "completion": "et.", "full_text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"text": "Uygulama güncellendi şimdi daha iyi. Markete gidiyorum bir şey lazım mı?"}
+{"prompt": "Harika haber tebrikler", "completion": "çok mutlu oldum.", "full_text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "akşam ne yapıyorsun"}
+{"text": "olur yarın konuşuruz"}
+{"text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "Çok", "completion": "teşekkür ederim yardımın için.", "full_text": "Çok teşekkür ederim yardımın için."}
+{"text": "Trafikte kaldım 20 dakika geç kalacağım. Haftasonu piknik var gelebilir misin?"}
+{"prompt": "internet çekmiyor", "completion": "burada", "full_text": "internet çekmiyor burada"}
+{"text": "arkadaşlar buluşuyor katılıyor musun"}
+{"prompt": "saat", "completion": "kaçta geliyorsun", "full_text": "saat kaçta geliyorsun"}
+{"text": "bu hafta sonu piknik var"}
+{"prompt": "Markete gidiyorum", "completion": "bir şey lazım mı?", "full_text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "haftasonu boş musun buluşalım"}
+{"text": "tamam görüşürüz"}
+{"text": "markete gidiyorum ne lazım"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Raporu gönderdim kontro", "output": "Raporu gönderdim kontrol edebilir misin?"}
+{"prompt": "Trafikte", "completion": "kaldım 20 dakika geç kalacağım.", "full_text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"text": "selam ne var ne yok"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni özledim uzun zamand", "output": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "seni özledim"}
+{"prompt": "sınav çok", "completion": "zordu", "full_text": "sınav çok zordu"}
+{"prompt": "Proje", "completion": "son aşamada bitiyor çok şükür.", "full_text": "Proje son aşamada bitiyor çok şükür."}
+{"prompt": "çok teşekkür", "completion": "ederim", "full_text": "çok teşekkür ederim"}
+{"prompt": "Arkadaşlar buluşuyor sen de", "completion": "katıl.", "full_text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "Çok teşekkür ederim yardımın için. Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "Aile toplantısı", "completion": "var cumartesi unutma.", "full_text": "Aile toplantısı var cumartesi unutma."}
+{"text": "Yarın saat 10da buluşalım tamam mı? Çok teşekkür ederim yardımın için."}
+{"prompt": "Harika iş", "completion": "çıkardın gerçekten çok iyiydi.", "full_text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sana önemli bir şe", "output": "Sana önemli bir şey söyleyecektim."}
+{"prompt": "buluşma saatini", "completion": "değiştirelim mi", "full_text": "buluşma saatini değiştirelim mi"}
+{"prompt": "selam", "completion": "ne var ne yok", "full_text": "selam ne var ne yok"}
+{"text": "Doktor randevusu aldım cuma günü. Sabah koşusu yaptım çok iyi hissettim."}
+{"text": "harika haber"}
+{"text": "neredesin şu an"}
+{"prompt": "Özür dilerim geç kaldım", "completion": "yolda trafik vardı.", "full_text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "hey", "completion": "iyi misin", "full_text": "hey iyi misin"}
+{"text": "Sınav çok zordu ama bence iyi geçti. Harika haber tebrikler çok mutlu oldum."}
+{"text": "Restoran rezervasyonu yaptım akşama."}
+{"prompt": "doğum günün", "completion": " kutlu olsun canım", "full_text": "doğum günün kutlu olsun canım"}
+{"text": "indirim var bugün"}
+{"text": "geçmiş olsun umarım iyileşirsin"}
+{"prompt": "haftasonu", "completion": " boş musun buluşalım", "full_text": "haftasonu boş musun buluşalım"}
+{"text": "doğum günün kutlu olsun canım"}
+{"text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "annem seni soruyor"}
+{"text": "merhaba günaydın"}
+{"prompt": "proje teslimi", "completion": "yarın", "full_text": "proje teslimi yarın"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bana bir kahve alabi", "output": "Bana bir kahve alabilir misin lütfen?"}
+{"prompt": "İndirimde aldım çok ucuzdu", "completion": "inanılmaz.", "full_text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Film biletlerini aldı", "output": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "Toplantı ertelendi saat 5e aldık."}
+{"text": "hangi restoranda buluşalım"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz. Çok güzel olmuş ellerine sağlık."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Online mı yoksa ofiste m", "output": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"prompt": "tamam o zaman", "completion": " görüşürüz", "full_text": "tamam o zaman görüşürüz"}
+{"text": "hey iyi misin"}
+{"text": "saat kaçta geliyorsun"}
+{"prompt": "Markete gidiyorum", "completion": "bir şey lazım mı?", "full_text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "internet çekmiyor burada"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Toplantı ertelendi s", "output": "Toplantı ertelendi saat 5e aldık."}
+{"text": "buluşma saatini değiştirelim mi"}
+{"text": "kendine iyi bak"}
+{"prompt": "Harika haber tebrikler çok", "completion": "mutlu oldum.", "full_text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "Çok teşekkür ederim yardımın için."}
+{"text": "selam canım nasılsın"}
+{"prompt": "telefonu", "completion": "güncelle bak", "full_text": "telefonu güncelle bak"}
+{"prompt": "hadi kolay", "completion": "gelsin", "full_text": "hadi kolay gelsin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Doktor randevusu", "output": "Doktor randevusu aldım cuma günü."}
+{"prompt": "seni çok", "completion": " özledim", "full_text": "seni çok özledim"}
+{"text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "sunum nasıl gitti"}
+{"text": "Masraf çok oldu ama değdi. Uygulama güncellendi şimdi daha iyi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika iş çıkardın gerçe", "output": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "Sana önemli bir şey söyleyecektim. Haftasonu piknik var gelebilir misin?"}
+{"text": "akşam yemeğini birlikte yiyelim mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Markete gidiyorum", "output": "Markete gidiyorum bir şey lazım mı?"}
+{"prompt": "Geçmiş olsun", "completion": "çabuk iyileşirsin umarım.", "full_text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Stresli bir gün geçirdi", "output": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "öğle arası", "completion": "çıkıyorum", "full_text": "öğle arası çıkıyorum"}
+{"prompt": "Şifreni unuttuysan", "completion": "sıfırla tekrar gir.", "full_text": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"prompt": "iyi", "completion": "günler kolay gelsin", "full_text": "iyi günler kolay gelsin"}
+{"text": "olur yarın konuşuruz"}
+{"prompt": "Akşam", "completion": "ne yemek yesek pizza mı?", "full_text": "Akşam ne yemek yesek pizza mı?"}
+{"prompt": "olur yarın", "completion": "konuşuruz", "full_text": "olur yarın konuşuruz"}
+{"text": "Toplantı ertelendi saat 5e aldık."}
+{"prompt": "Çay içmeye gelir misin", "completion": "bir ara?", "full_text": "Çay içmeye gelir misin bir ara?"}
+{"prompt": "Çok", "completion": "iyiyim teşekkür ederim.", "full_text": "Çok iyiyim teşekkür ederim."}
+{"text": "Çok teşekkür ederim yardımın için."}
+{"text": "arkadaşlar buluşuyor katılıyor musun"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Telefonu şarj etme", "output": "Telefonu şarj etmeyi unutma bitecek."}
+{"prompt": "Çok", "completion": "güzel olmuş ellerine sağlık.", "full_text": "Çok güzel olmuş ellerine sağlık."}
+{"text": "haftasonu ne yapıyorsun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Film biletlerini aldım sa", "output": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "Film biletlerini aldım saat 8de başlıyor."}
+{"prompt": "Trafikte kaldım 20 dakika geç", "completion": "kalacağım.", "full_text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"text": "Masraf çok oldu ama değdi. Raporu gönderdim kontrol edebilir misin?"}
+{"text": "saat kaçta geliyorsun"}
+{"text": "doğum günün kutlu olsun"}
+{"text": "Seni aradım ama açmadın ne oldu?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Aile toplantısı var c", "output": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "Sana önemli bir şey", "completion": "söyleyecektim.", "full_text": "Sana önemli bir şey söyleyecektim."}
+{"text": "aile toplantısı var"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çay içmeye gelir mi", "output": "Çay içmeye gelir misin bir ara?"}
+{"text": "aile toplantısı var"}
+{"text": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "Doktor randevusu aldım cuma günü. Özür dilerim geç kaldım yolda trafik vardı."}
+{"text": "harika haber"}
+{"text": "Bana bir kahve alabilir misin lütfen? Çok teşekkür ederim yardımın için."}
+{"text": "Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "Trafikte kaldım 20 dakika", "completion": "geç kalacağım.", "full_text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"text": "doktora gitmem lazım"}
+{"text": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "ilaçlarını aldın mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Ödev var mı yarın t", "output": "Ödev var mı yarın teslim mi?"}
+{"prompt": "harika bir gün", "completion": "geçirdim", "full_text": "harika bir gün geçirdim"}
+{"text": "Restoran rezervasyonu yaptım akşama. Düşün bakalım karar verelim."}
+{"text": "Nasılsın uzun zamandır görüşemedik?"}
+{"prompt": "hadi kolay", "completion": "gelsin", "full_text": "hadi kolay gelsin"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz. Çok yoruldum ama iş bitti nihayet."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Biraz hasta hissediyor", "output": "Biraz hasta hissediyorum bugün evdeyim."}
+{"prompt": "telefonu", "completion": "güncelle bak", "full_text": "telefonu güncelle bak"}
+{"text": "telefonu güncelle bak"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün hava çok güzel y", "output": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"text": "akşam pizza söyleyelim mi"}
+{"prompt": "doğum", "completion": "günün kutlu olsun", "full_text": "doğum günün kutlu olsun"}
+{"prompt": "hadi", "completion": "kolay gelsin", "full_text": "hadi kolay gelsin"}
+{"text": "sınav çok zordu"}
+{"prompt": "Film biletlerini aldım saat", "completion": "8de başlıyor.", "full_text": "Film biletlerini aldım saat 8de başlıyor."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni özledim uzun z", "output": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "markete gidiyorum bir şey lazım mı"}
+{"prompt": "arkadaşlar buluşuyor katılıyor", "completion": "musun", "full_text": "arkadaşlar buluşuyor katılıyor musun"}
+{"prompt": "günaydın", "completion": "nasıl geçti", "full_text": "günaydın nasıl geçti"}
+{"text": "Akşam ne yemek yesek pizza mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok güzel olmuş el", "output": "Çok güzel olmuş ellerine sağlık."}
+{"text": "selam ne var ne yok"}
+{"text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "Proje son aşamada bitiyor çok şükür. Toplantı ertelendi saat 5e aldık."}
+{"text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "Hava soğudu mont giy üşüme."}
+{"text": "Uygulama güncellendi şimdi daha iyi. Proje son aşamada bitiyor çok şükür."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok güzel olmuş elle", "output": "Çok güzel olmuş ellerine sağlık."}
+{"text": "günaydın nasıl geçti"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok teşekkür ederim y", "output": "Çok teşekkür ederim yardımın için."}
+{"prompt": "Proje son aşamada bitiyor", "completion": "çok şükür.", "full_text": "Proje son aşamada bitiyor çok şükür."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sabah koşusu yaptım çok ", "output": "Sabah koşusu yaptım çok iyi hissettim."}
+{"prompt": "online mı yoksa yüz", "completion": "yüze mi", "full_text": "online mı yoksa yüz yüze mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Konser çok iyiydi keşke s", "output": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "kardeşim de geliyor"}
+{"prompt": "bu hafta sonu", "completion": "piknik var", "full_text": "bu hafta sonu piknik var"}
+{"prompt": "Sana önemli", "completion": "bir şey söyleyecektim.", "full_text": "Sana önemli bir şey söyleyecektim."}
+{"text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "İndirim var bugün alışverişe çıkalım", "completion": "mı?", "full_text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"prompt": "Konser çok", "completion": "iyiydi keşke sen de gelseydin.", "full_text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "o ürünü aldın mı sonunda"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çay içmeye gelir mis", "output": "Çay içmeye gelir misin bir ara?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sınav çok zordu am", "output": "Sınav çok zordu ama bence iyi geçti."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika iş çıkardın gerçe", "output": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Müzik kulağıma küpe", "output": "Müzik kulağıma küpe oldu o şarkı."}
+{"text": "Raporu gönderdim kontrol edebilir misin? Çok iyiyim teşekkür ederim."}
+{"prompt": "Doktor", "completion": "randevusu aldım cuma günü.", "full_text": "Doktor randevusu aldım cuma günü."}
+{"prompt": "sunum nasıl", "completion": "gitti", "full_text": "sunum nasıl gitti"}
+{"prompt": "Nasılsın", "completion": "uzun zamandır görüşemedik?", "full_text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "günaydın nasıl geçti"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok güzel olmuş eller", "output": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "Hava", "completion": "soğudu mont giy üşüme.", "full_text": "Hava soğudu mont giy üşüme."}
+{"text": "toplantı saat kaçta başlıyor"}
+{"prompt": "bu hafta sonu piknik", "completion": "var", "full_text": "bu hafta sonu piknik var"}
+{"prompt": "Stresli bir", "completion": "gün geçirdim dinlenmem lazım.", "full_text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "Seni özledim uzun", "completion": "zamandır görüşemedik.", "full_text": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "Haftasonu piknik var gelebilir misin?"}
+{"text": "Akşam ne yemek yesek pizza mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok teşekkür ederim y", "output": "Çok teşekkür ederim yardımın için."}
+{"text": "Raporu gönderdim kontrol edebilir misin?"}
+{"prompt": "akşam", "completion": "ne yapıyorsun", "full_text": "akşam ne yapıyorsun"}
+{"prompt": "Doktor", "completion": "randevusu aldım cuma günü.", "full_text": "Doktor randevusu aldım cuma günü."}
+{"text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "akşam", "completion": "yemek yiyelim mi", "full_text": "akşam yemek yiyelim mi"}
+{"prompt": "bugün toplantı var", "completion": "mı", "full_text": "bugün toplantı var mı"}
+{"text": "proje teslimi yarın"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Arkadaşlar buluşuyor ", "output": "Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "Seni özledim uzun", "completion": "zamandır görüşemedik.", "full_text": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "sınav çok zordu"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok yoruldum ama i", "output": "Çok yoruldum ama iş bitti nihayet."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Uygulama güncellendi", "output": "Uygulama güncellendi şimdi daha iyi."}
+{"prompt": "ilaçlarını", "completion": "aldın mı", "full_text": "ilaçlarını aldın mı"}
+{"prompt": "Haftasonu piknik var", "completion": "gelebilir misin?", "full_text": "Haftasonu piknik var gelebilir misin?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok iyiyim teş", "output": "Çok iyiyim teşekkür ederim."}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "olur yarın konuşuruz"}
+{"prompt": "İndirimde aldım çok ucuzdu", "completion": "inanılmaz.", "full_text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"prompt": "Bana bir kahve", "completion": "alabilir misin lütfen?", "full_text": "Bana bir kahve alabilir misin lütfen?"}
+{"prompt": "doğum", "completion": "günün kutlu olsun", "full_text": "doğum günün kutlu olsun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Özür dilerim geç kaldım yo", "output": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "uygulamayı", "completion": "indirdin mi", "full_text": "uygulamayı indirdin mi"}
+{"text": "Markete gidiyorum bir şey lazım mı?"}
+{"prompt": "Hava soğudu", "completion": "mont giy üşüme.", "full_text": "Hava soğudu mont giy üşüme."}
+{"prompt": "markete gidiyorum bir şey lazım", "completion": "mı", "full_text": "markete gidiyorum bir şey lazım mı"}
+{"prompt": "Trafikte kaldım", "completion": "20 dakika geç kalacağım.", "full_text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "yarın buluşalım", "completion": "mı", "full_text": "yarın buluşalım mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika iş çıkardın g", "output": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "bugün çok yoruldum"}
+{"text": "Masraf çok oldu ama değdi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Stresli bir gün geçi", "output": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "olur", "completion": "yarın konuşuruz", "full_text": "olur yarın konuşuruz"}
+{"text": "Kardeşim de geliyor seni görmek istiyor."}
+{"prompt": "hey", "completion": "iyi misin", "full_text": "hey iyi misin"}
+{"prompt": "Yarın erken kalkman gerekiyor dikkat", "completion": "et.", "full_text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "internet", "completion": "çekmiyor burada", "full_text": "internet çekmiyor burada"}
+{"prompt": "bugün", "completion": "biraz hasta hissettim", "full_text": "bugün biraz hasta hissettim"}
+{"prompt": "raporu", "completion": "gönderdim mi kontrolledin", "full_text": "raporu gönderdim mi kontrolledin"}
+{"prompt": "bugün", "completion": "toplantı var mı", "full_text": "bugün toplantı var mı"}
+{"prompt": "Telefonu şarj", "completion": "etmeyi unutma bitecek.", "full_text": "Telefonu şarj etmeyi unutma bitecek."}
+{"text": "Seni aradım ama açmadın ne oldu?"}
+{"prompt": "nbr ne", "completion": "haber", "full_text": "nbr ne haber"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Online mı yoksa ofis", "output": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"prompt": "online mı", "completion": "yoksa yüz yüze mi", "full_text": "online mı yoksa yüz yüze mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Kardeşim de geliyor ", "output": "Kardeşim de geliyor seni görmek istiyor."}
+{"prompt": "Biraz", "completion": "hasta hissediyorum bugün evdeyim.", "full_text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"prompt": "Konser çok iyiydi", "completion": "keşke sen de gelseydin.", "full_text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Yarın saat 10da buluşalım tamam mı?"}
+{"prompt": "Tamam", "completion": "yarın devam ederiz iyi geceler.", "full_text": "Tamam yarın devam ederiz iyi geceler."}
+{"prompt": "Masraf çok oldu ama", "completion": "değdi.", "full_text": "Masraf çok oldu ama değdi."}
+{"text": "Sınav çok zordu ama bence iyi geçti. Çok iyiyim teşekkür ederim."}
+{"prompt": "Düşün bakalım karar", "completion": "verelim.", "full_text": "Düşün bakalım karar verelim."}
+{"text": "Haftasonu piknik var gelebilir misin?"}
+{"text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "olur yarın", "completion": "konuşuruz", "full_text": "olur yarın konuşuruz"}
+{"prompt": "Bugün müsait değilim yarın", "completion": "konuşalım.", "full_text": "Bugün müsait değilim yarın konuşalım."}
+{"text": "bu hafta sonu piknik var"}
+{"prompt": "film saat", "completion": " kaçta başlıyor", "full_text": "film saat kaçta başlıyor"}
+{"text": "Müzik kulağıma küpe oldu o şarkı."}
+{"prompt": "akşam", "completion": "yemek yiyelim mi", "full_text": "akşam yemek yiyelim mi"}
+{"text": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "Proje son aşamada bitiyor çok şükür. Nasılsın uzun zamandır görüşemedik?"}
+{"text": "Nasılsın uzun zamandır görüşemedik? İndirimde aldım çok ucuzdu inanılmaz."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Konser çok iyiydi keşke s", "output": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Restoran rezervasyonu yaptım akşama. Çok iyiyim teşekkür ederim."}
+{"text": "kendine iyi bak"}
+{"prompt": "doğum günün kutlu", "completion": "olsun", "full_text": "doğum günün kutlu olsun"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım. Sana önemli bir şey söyleyecektim."}
+{"prompt": "Arkadaşlar buluşuyor sen", "completion": "de katıl.", "full_text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "Düşün bakalım karar verelim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Film biletlerini aldım ", "output": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "iyi günler kolay gelsin"}
+{"text": "Çay içmeye gelir misin bir ara?"}
+{"prompt": "markete gidiyorum", "completion": "bir şey lazım mı", "full_text": "markete gidiyorum bir şey lazım mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Kardeşim de geliyor seni ", "output": "Kardeşim de geliyor seni görmek istiyor."}
+{"prompt": "bugün biraz hasta", "completion": "hissettim", "full_text": "bugün biraz hasta hissettim"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Müzik kulağıma kü", "output": "Müzik kulağıma küpe oldu o şarkı."}
+{"prompt": "yarın buluşalım", "completion": "mı", "full_text": "yarın buluşalım mı"}
+{"prompt": "Masraf çok oldu ama", "completion": "değdi.", "full_text": "Masraf çok oldu ama değdi."}
+{"text": "toplantı saat 3te"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sınav çok zordu ama b", "output": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "çay içmeye gelelim mi"}
+{"prompt": "aile", "completion": "toplantısı var", "full_text": "aile toplantısı var"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Akşam ne yemek yes", "output": "Akşam ne yemek yesek pizza mı?"}
+{"prompt": "Toplantı ertelendi", "completion": "saat 5e aldık.", "full_text": "Toplantı ertelendi saat 5e aldık."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sana önemli bir ş", "output": "Sana önemli bir şey söyleyecektim."}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz. Masraf çok oldu ama değdi."}
+{"text": "konser biletleri aldım"}
+{"text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"prompt": "Annem", "completion": "seni soruyor yakında uğra.", "full_text": "Annem seni soruyor yakında uğra."}
+{"prompt": "Film biletlerini aldım", "completion": "saat 8de başlıyor.", "full_text": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "Aile toplantısı var cumartesi unutma."}
+{"text": "Telefonu şarj etmeyi unutma bitecek."}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "kardeşim de geliyor"}
+{"prompt": "Harika", "completion": "iş çıkardın gerçekten çok iyiydi.", "full_text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"prompt": "Hava", "completion": "soğudu mont giy üşüme.", "full_text": "Hava soğudu mont giy üşüme."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Tamam yarın devam ederi", "output": "Tamam yarın devam ederiz iyi geceler."}
+{"prompt": "Harika iş çıkardın", "completion": "gerçekten çok iyiydi.", "full_text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "doktora gitmem lazım"}
+{"prompt": "Özür dilerim geç kaldım yolda trafik", "completion": "vardı.", "full_text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"text": "film saat kaçta başlıyor"}
+{"prompt": "proje", "completion": "teslimi yarın", "full_text": "proje teslimi yarın"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Uygulama güncellendi ", "output": "Uygulama güncellendi şimdi daha iyi."}
+{"prompt": "Uygulama güncellendi", "completion": "şimdi daha iyi.", "full_text": "Uygulama güncellendi şimdi daha iyi."}
+{"text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "raporu gönderdim mi kontrolledin"}
+{"prompt": "Bugün müsait değilim", "completion": "yarın konuşalım.", "full_text": "Bugün müsait değilim yarın konuşalım."}
+{"prompt": "Çok yoruldum ama iş", "completion": "bitti nihayet.", "full_text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "Annem seni soruyor yakında", "completion": "uğra.", "full_text": "Annem seni soruyor yakında uğra."}
+{"text": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "Doktor", "completion": "randevusu aldım cuma günü.", "full_text": "Doktor randevusu aldım cuma günü."}
+{"text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "Harika haber tebrikler çok mutlu oldum. Haftasonu piknik var gelebilir misin?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni aradım ama a", "output": "Seni aradım ama açmadın ne oldu?"}
+{"text": "Tamam yarın devam ederiz iyi geceler."}
+{"text": "Ödev var mı yarın teslim mi?"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım. Bana bir kahve alabilir misin lütfen?"}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "selam ne var ne yok"}
+{"prompt": "iyi geceler", "completion": " tatlı rüyalar", "full_text": "iyi geceler tatlı rüyalar"}
+{"prompt": "Sana önemli bir şey", "completion": "söyleyecektim.", "full_text": "Sana önemli bir şey söyleyecektim."}
+{"text": "Çok teşekkür ederim yardımın için."}
+{"prompt": "Biraz hasta hissediyorum", "completion": "bugün evdeyim.", "full_text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "Yarın erken kalkman gerekiyor dikkat et. Tamam yarın devam ederiz iyi geceler."}
+{"text": "Sınav çok zordu ama bence iyi geçti."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Müzik kulağıma küpe o", "output": "Müzik kulağıma küpe oldu o şarkı."}
+{"text": "çok teşekkür ederim"}
+{"prompt": "arkadaşlar buluşuyor katılıyor", "completion": "musun", "full_text": "arkadaşlar buluşuyor katılıyor musun"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım. Yarın erken kalkman gerekiyor dikkat et."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika haber tebrik", "output": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "hey iyi misin"}
+{"prompt": "fiyat çok pahalı", "completion": "değil mi", "full_text": "fiyat çok pahalı değil mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Trafikte kaldım 20 dakik", "output": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "kardeşim", "completion": "de geliyor", "full_text": "kardeşim de geliyor"}
+{"text": "Raporu gönderdim kontrol edebilir misin?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirimde aldım çok", "output": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"prompt": "çok yorgun", "completion": "um ama bitirdim", "full_text": "çok yorgunum ama bitirdim"}
+{"prompt": "hafta", "completion": "içi müsait misin", "full_text": "hafta içi müsait misin"}
+{"prompt": "biraz", "completion": "stresli hissediyorum", "full_text": "biraz stresli hissediyorum"}
+{"text": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "harika bir gün geçirdim"}
+{"prompt": "Yarın saat 10da buluşalım", "completion": "tamam mı?", "full_text": "Yarın saat 10da buluşalım tamam mı?"}
+{"text": "proje teslimi yarın"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Tamam yarın devam eder", "output": "Tamam yarın devam ederiz iyi geceler."}
+{"text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"text": "biraz stresli hissediyorum"}
+{"text": "Doktor randevusu aldım cuma günü."}
+{"prompt": "Kardeşim de", "completion": "geliyor seni görmek istiyor.", "full_text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "az sonra geliyorum"}
+{"text": "çok mutluyum bugün"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz. Çok teşekkür ederim yardımın için."}
+{"prompt": "Sabah", "completion": "koşusu yaptım çok iyi hissettim.", "full_text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"text": "Ödev var mı yarın teslim mi?"}
+{"text": "öğle arası çıkıyorum"}
+{"prompt": "haftasonu", "completion": "ne yapıyorsun", "full_text": "haftasonu ne yapıyorsun"}
+{"prompt": "geçmiş", "completion": "olsun umarım iyileşirsin", "full_text": "geçmiş olsun umarım iyileşirsin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Aile toplantısı var ", "output": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "Film biletlerini aldım", "completion": "saat 8de başlıyor.", "full_text": "Film biletlerini aldım saat 8de başlıyor."}
+{"prompt": "Arkadaşlar buluşuyor sen", "completion": "de katıl.", "full_text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "hafta içi müsait misin"}
+{"text": "seni çok özledim"}
+{"text": "Uygulama güncellendi şimdi daha iyi. Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "öğle", "completion": "arası çıkıyorum", "full_text": "öğle arası çıkıyorum"}
+{"text": "Kardeşim de geliyor seni görmek istiyor."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün müsait değilim ", "output": "Bugün müsait değilim yarın konuşalım."}
+{"prompt": "kardeşim", "completion": "de geliyor", "full_text": "kardeşim de geliyor"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın erken kalkman gere", "output": "Yarın erken kalkman gerekiyor dikkat et."}
+{"text": "Yarın saat 10da buluşalım tamam mı? Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "fiyat çok pahalı değil", "completion": "mi", "full_text": "fiyat çok pahalı değil mi"}
+{"text": "Çok iyiyim teşekkür ederim."}
+{"text": "selam canım nasılsın"}
+{"prompt": "Masraf çok", "completion": "oldu ama değdi.", "full_text": "Masraf çok oldu ama değdi."}
+{"prompt": "saat", "completion": "kaçta geliyorsun", "full_text": "saat kaçta geliyorsun"}
+{"prompt": "market", "completion": "e gidiyorum ne lazım", "full_text": "markete gidiyorum ne lazım"}
+{"text": "Bana bir kahve alabilir misin lütfen? Telefonu şarj etmeyi unutma bitecek."}
+{"text": "özür dilerim geç kaldım için"}
+{"prompt": "harika bir", "completion": " gün geçirdim", "full_text": "harika bir gün geçirdim"}
+{"text": "bugün çok yoruldum"}
+{"text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "naber iyimisin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Geçmiş olsun çabuk iyi", "output": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"prompt": "Bugün müsait değilim", "completion": "yarın konuşalım.", "full_text": "Bugün müsait değilim yarın konuşalım."}
+{"text": "Proje son aşamada bitiyor çok şükür."}
+{"text": "Seni aradım ama açmadın ne oldu?"}
+{"prompt": "az sonra", "completion": "geliyorum", "full_text": "az sonra geliyorum"}
+{"prompt": "proje teslimi", "completion": "yarın", "full_text": "proje teslimi yarın"}
+{"text": "seni özledim"}
+{"text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Düşün bakalım k", "output": "Düşün bakalım karar verelim."}
+{"prompt": "Seni aradım ama açmadın", "completion": "ne oldu?", "full_text": "Seni aradım ama açmadın ne oldu?"}
+{"text": "Markete gidiyorum bir şey lazım mı? Markete gidiyorum bir şey lazım mı?"}
+{"prompt": "bugün çok", "completion": "yoruldum", "full_text": "bugün çok yoruldum"}
+{"text": "Ödev var mı yarın teslim mi? Hava soğudu mont giy üşüme."}
+{"prompt": "Kardeşim de", "completion": "geliyor seni görmek istiyor.", "full_text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "bugün toplantı var mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın saat 10da buluşa", "output": "Yarın saat 10da buluşalım tamam mı?"}
+{"text": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "buluşma saatini", "completion": "değiştirelim mi", "full_text": "buluşma saatini değiştirelim mi"}
+{"prompt": "raporu gönderdim", "completion": "mi kontrolledin", "full_text": "raporu gönderdim mi kontrolledin"}
+{"prompt": "Akşam ne yemek yesek", "completion": "pizza mı?", "full_text": "Akşam ne yemek yesek pizza mı?"}
+{"text": "Güzel bir gün geçirdik tekrar edelim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Hava soğudu mont", "output": "Hava soğudu mont giy üşüme."}
+{"text": "Haftasonu piknik var gelebilir misin? Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Tamam yarın devam ederiz iyi geceler."}
+{"prompt": "selam ne", "completion": " var ne yok", "full_text": "selam ne var ne yok"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Geçmiş olsun çabuk i", "output": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "Proje son aşamada bitiyor çok şükür."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın erken kalkman ger", "output": "Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "şifre yanlış", "completion": "tekrar dene", "full_text": "şifre yanlış tekrar dene"}
+{"prompt": "Geçmiş olsun çabuk", "completion": "iyileşirsin umarım.", "full_text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Toplantı ertelend", "output": "Toplantı ertelendi saat 5e aldık."}
+{"prompt": "akşam ne", "completion": "yapıyorsun", "full_text": "akşam ne yapıyorsun"}
+{"prompt": "arkadaşlar", "completion": "buluşuyor katılıyor musun", "full_text": "arkadaşlar buluşuyor katılıyor musun"}
+{"text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "hafta içi müsait misin"}
+{"prompt": "Güzel bir", "completion": "gün geçirdik tekrar edelim.", "full_text": "Güzel bir gün geçirdik tekrar edelim."}
+{"text": "Çok güzel olmuş ellerine sağlık."}
+{"text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "yarın sinemaya gidelim mi"}
+{"prompt": "Restoran rezervasyonu", "completion": "yaptım akşama.", "full_text": "Restoran rezervasyonu yaptım akşama."}
+{"text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "Restoran rezervasyonu yaptım akşama."}
+{"text": "Sana önemli bir şey söyleyecektim. Toplantı ertelendi saat 5e aldık."}
+{"text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "o ürünü aldın mı sonunda"}
+{"prompt": "ilaçlarını", "completion": "aldın mı", "full_text": "ilaçlarını aldın mı"}
+{"text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"prompt": "internet çekmiyor", "completion": "burada", "full_text": "internet çekmiyor burada"}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Geçmiş olsun çabuk iyile", "output": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "Uygulama güncellendi şimdi daha iyi. Şifreni unuttuysan sıfırla tekrar gir."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Arkadaşlar buluşuy", "output": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "Hava soğudu mont giy üşüme."}
+{"text": "Güzel bir gün geçirdik tekrar edelim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın saat 10da bulu", "output": "Yarın saat 10da buluşalım tamam mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Stresli bir gün geçird", "output": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "online mı yoksa yüz yüze", "completion": "mi", "full_text": "online mı yoksa yüz yüze mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Raporu gönderdim kon", "output": "Raporu gönderdim kontrol edebilir misin?"}
+{"text": "doğum günün kutlu olsun"}
+{"prompt": "konser", "completion": "biletleri aldım", "full_text": "konser biletleri aldım"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Nasılsın uzun zamandı", "output": "Nasılsın uzun zamandır görüşemedik?"}
+{"prompt": "aile toplantısı", "completion": "var", "full_text": "aile toplantısı var"}
+{"text": "hafta içi müsait misin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Haftasonu piknik va", "output": "Haftasonu piknik var gelebilir misin?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Toplantı ertelendi", "output": "Toplantı ertelendi saat 5e aldık."}
+{"prompt": "Güzel bir", "completion": "gün geçirdik tekrar edelim.", "full_text": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "selam", "completion": "canım nasılsın", "full_text": "selam canım nasılsın"}
+{"text": "Çok güzel olmuş ellerine sağlık."}
+{"text": "Restoran rezervasyonu yaptım akşama. Toplantı ertelendi saat 5e aldık."}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "Sana önemli bir şey söyleyecektim."}
+{"text": "yarın sinemaya gidelim mi"}
+{"text": "markete gidiyorum bir şey lazım mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sabah koşusu yaptım ", "output": "Sabah koşusu yaptım çok iyi hissettim."}
+{"text": "Özür dilerim geç kaldım yolda trafik vardı. Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "Bana bir kahve alabilir misin", "completion": "lütfen?", "full_text": "Bana bir kahve alabilir misin lütfen?"}
+{"prompt": "akşam yemeği", "completion": "ni birlikte yiyelim mi", "full_text": "akşam yemeğini birlikte yiyelim mi"}
+{"text": "bugün akşam çıkıyor musun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bana bir kahve alab", "output": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "Müzik kulağıma küpe oldu o şarkı."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Güzel bir gün geçi", "output": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "çok", "completion": "mutluyum bugün", "full_text": "çok mutluyum bugün"}
+{"prompt": "bu hafta", "completion": "sonu piknik var", "full_text": "bu hafta sonu piknik var"}
+{"prompt": "Sınav", "completion": "çok zordu ama bence iyi geçti.", "full_text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "Film biletlerini aldım saat 8de başlıyor. Telefonu şarj etmeyi unutma bitecek."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün müsait değilim y", "output": "Bugün müsait değilim yarın konuşalım."}
+{"prompt": "Yarın saat 10da buluşalım", "completion": "tamam mı?", "full_text": "Yarın saat 10da buluşalım tamam mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika haber tebrikl", "output": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "saat kaçta geliyorsun"}
+{"text": "Düşün bakalım karar verelim. Restoran rezervasyonu yaptım akşama."}
+{"text": "Toplantı ertelendi saat 5e aldık."}
+{"text": "Bugün müsait değilim yarın konuşalım."}
+{"text": "yarın buluşalım mı"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Aile toplantısı var c", "output": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "Hava soğudu", "completion": "mont giy üşüme.", "full_text": "Hava soğudu mont giy üşüme."}
+{"prompt": "günaydın", "completion": "nasıl geçti", "full_text": "günaydın nasıl geçti"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok güzel olmuş eller", "output": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "film başlıyor hazır", "completion": "mısın", "full_text": "film başlıyor hazır mısın"}
+{"text": "merhaba nasılsın bugün"}
+{"prompt": "Stresli bir gün", "completion": "geçirdim dinlenmem lazım.", "full_text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "Bugün müsait değilim yarın", "completion": "konuşalım.", "full_text": "Bugün müsait değilim yarın konuşalım."}
+{"text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "çok mutluyum bugün"}
+{"text": "toplantı saat 3te"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Markete gidiyorum ", "output": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "Sınav çok zordu ama bence iyi geçti. Uygulama güncellendi şimdi daha iyi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Restoran rezervasyon", "output": "Restoran rezervasyonu yaptım akşama."}
+{"prompt": "fiyat", "completion": "çok pahalı değil mi", "full_text": "fiyat çok pahalı değil mi"}
+{"prompt": "Ödev", "completion": "var mı yarın teslim mi?", "full_text": "Ödev var mı yarın teslim mi?"}
+{"text": "Hava soğudu mont giy üşüme. Konser çok iyiydi keşke sen de gelseydin."}
+{"prompt": "Konser çok", "completion": "iyiydi keşke sen de gelseydin.", "full_text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "hangi restoranda buluşalım"}
+{"prompt": "hafta içi müsait", "completion": "misin", "full_text": "hafta içi müsait misin"}
+{"text": "raporu gönderdim mi kontrolledin"}
+{"text": "Restoran rezervasyonu yaptım akşama."}
+{"text": "Hava soğudu mont giy üşüme. Çok yoruldum ama iş bitti nihayet."}
+{"prompt": "üzgünüm özür", "completion": "dilerim", "full_text": "üzgünüm özür dilerim"}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi. Bana bir kahve alabilir misin lütfen?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Hava soğudu m", "output": "Hava soğudu mont giy üşüme."}
+{"text": "yarın buluşalım mı"}
+{"text": "Güzel bir gün geçirdik tekrar edelim."}
+{"prompt": "hafta", "completion": "içi müsait misin", "full_text": "hafta içi müsait misin"}
+{"text": "Aile toplantısı var cumartesi unutma. Telefonu şarj etmeyi unutma bitecek."}
+{"text": "Telefonu şarj etmeyi unutma bitecek."}
+{"text": "üzgünüm özür dilerim"}
+{"text": "Masraf çok oldu ama değdi."}
+{"text": "Ödev var mı yarın teslim mi?"}
+{"prompt": "Aile", "completion": "toplantısı var cumartesi unutma.", "full_text": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "akşam", "completion": "ne yapıyorsun", "full_text": "akşam ne yapıyorsun"}
+{"text": "Proje son aşamada bitiyor çok şükür."}
+{"text": "Düşün bakalım karar verelim."}
+{"text": "çok teşekkür ederim yardımın için"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Restoran rezervasy", "output": "Restoran rezervasyonu yaptım akşama."}
+{"prompt": "yarın", "completion": " buluşalım mı", "full_text": "yarın buluşalım mı"}
+{"prompt": "film başlıyor hazır", "completion": "mısın", "full_text": "film başlıyor hazır mısın"}
+{"text": "Yarın saat 10da buluşalım tamam mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Şifreni unuttuysan sıfı", "output": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "online mı yoksa yüz yüze mi"}
+{"text": "Çok teşekkür ederim yardımın için."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok iyiyim teş", "output": "Çok iyiyim teşekkür ederim."}
+{"text": "fiyat çok pahalı değil mi"}
+{"prompt": "İndirimde aldım çok", "completion": "ucuzdu inanılmaz.", "full_text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"prompt": "Ödev var mı yarın", "completion": "teslim mi?", "full_text": "Ödev var mı yarın teslim mi?"}
+{"text": "görüşmek üzere"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Aile toplantısı var", "output": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "Toplantı", "completion": "ertelendi saat 5e aldık.", "full_text": "Toplantı ertelendi saat 5e aldık."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirim var bugün alışve", "output": "İndirim var bugün alışverişe çıkalım mı?"}
+{"text": "Telefonu şarj etmeyi unutma bitecek. Seni aradım ama açmadın ne oldu?"}
+{"prompt": "Nasılsın uzun", "completion": "zamandır görüşemedik?", "full_text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "Kardeşim de geliyor seni görmek istiyor. Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "harika bir gün geçirdim"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirim var bugün al", "output": "İndirim var bugün alışverişe çıkalım mı?"}
+{"prompt": "Markete gidiyorum", "completion": "bir şey lazım mı?", "full_text": "Markete gidiyorum bir şey lazım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirimde aldım çok ucu", "output": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"prompt": "Çok güzel", "completion": "olmuş ellerine sağlık.", "full_text": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "Raporu", "completion": "gönderdim kontrol edebilir misin?", "full_text": "Raporu gönderdim kontrol edebilir misin?"}
+{"prompt": "Yarın erken kalkman gerekiyor", "completion": "dikkat et.", "full_text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"text": "nbr ne haber"}
+{"prompt": "bugün çok", "completion": "yoruldum", "full_text": "bugün çok yoruldum"}
+{"prompt": "harika bir", "completion": "gün geçirdim", "full_text": "harika bir gün geçirdim"}
+{"prompt": "biraz stresli", "completion": "hissediyorum", "full_text": "biraz stresli hissediyorum"}
+{"text": "Hava soğudu mont giy üşüme."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Proje son aşamada bi", "output": "Proje son aşamada bitiyor çok şükür."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Özür dilerim geç kaldım yo", "output": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "saat kaçta", "completion": "geliyorsun", "full_text": "saat kaçta geliyorsun"}
+{"text": "online mı yoksa yüz yüze mi"}
+{"prompt": "şifre yanlış", "completion": "tekrar dene", "full_text": "şifre yanlış tekrar dene"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok teşekkür ederim ", "output": "Çok teşekkür ederim yardımın için."}
+{"text": "Haftasonu piknik var gelebilir misin? Bugün müsait değilim yarın konuşalım."}
+{"text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "çok mutluyum bugün"}
+{"text": "harika bir gün geçirdim"}
+{"text": "Aile toplantısı var cumartesi unutma."}
+{"text": "Toplantı ertelendi saat 5e aldık. Çok güzel olmuş ellerine sağlık."}
+{"text": "markete gidiyorum bir şey lazım mı"}
+{"text": "Nasılsın uzun zamandır görüşemedik? Markete gidiyorum bir şey lazım mı?"}
+{"text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"prompt": "üzgünüm özür", "completion": "dilerim", "full_text": "üzgünüm özür dilerim"}
+{"prompt": "İndirim var bugün", "completion": "alışverişe çıkalım mı?", "full_text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Nasılsın uzun zama", "output": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"text": "ilaçlarını aldın mı bugün"}
+{"prompt": "Annem seni soruyor", "completion": "yakında uğra.", "full_text": "Annem seni soruyor yakında uğra."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Haftasonu piknik var", "output": "Haftasonu piknik var gelebilir misin?"}
+{"prompt": "Tamam", "completion": "yarın devam ederiz iyi geceler.", "full_text": "Tamam yarın devam ederiz iyi geceler."}
+{"text": "internet çekmiyor burada sinyal yok"}
+{"prompt": "akşam pizza", "completion": "söyleyelim mi", "full_text": "akşam pizza söyleyelim mi"}
+{"text": "yorgun ama mutluyum"}
+{"text": "az sonra geliyorum"}
+{"text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "Düşün bakalım karar", "completion": "verelim.", "full_text": "Düşün bakalım karar verelim."}
+{"prompt": "Aile", "completion": "toplantısı var cumartesi unutma.", "full_text": "Aile toplantısı var cumartesi unutma."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Online mı yoksa ofi", "output": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni aradım ama açm", "output": "Seni aradım ama açmadın ne oldu?"}
+{"prompt": "çay içmeye gelelim", "completion": "mi", "full_text": "çay içmeye gelelim mi"}
+{"text": "buluşma saatini değiştirelim mi"}
+{"text": "Çay içmeye gelir misin bir ara?"}
+{"prompt": "Akşam ne yemek yesek", "completion": "pizza mı?", "full_text": "Akşam ne yemek yesek pizza mı?"}
+{"text": "Uygulama güncellendi şimdi daha iyi."}
+{"text": "tamam o zaman görüşürüz"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın erken kalkman gere", "output": "Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "çok teşekkür", "completion": "ederim", "full_text": "çok teşekkür ederim"}
+{"text": "İndirimde aldım çok ucuzdu inanılmaz. Güzel bir gün geçirdik tekrar edelim."}
+{"text": "Uygulama güncellendi şimdi daha iyi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Restoran rezervasy", "output": "Restoran rezervasyonu yaptım akşama."}
+{"text": "şifre yanlış tekrar dene"}
+{"text": "Sana önemli bir şey söyleyecektim."}
+{"prompt": "Çay içmeye gelir", "completion": "misin bir ara?", "full_text": "Çay içmeye gelir misin bir ara?"}
+{"text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "bugün akşam", "completion": " çıkıyor musun", "full_text": "bugün akşam çıkıyor musun"}
+{"prompt": "Ödev var mı yarın teslim", "completion": "mi?", "full_text": "Ödev var mı yarın teslim mi?"}
+{"text": "selam canım nasılsın"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok yoruldum ama ", "output": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "telefonu güncelle bak"}
+{"text": "Sana önemli bir şey söyleyecektim."}
+{"prompt": "Annem seni soruyor", "completion": "yakında uğra.", "full_text": "Annem seni soruyor yakında uğra."}
+{"text": "görüşmek üzere"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Annem seni soruyor ya", "output": "Annem seni soruyor yakında uğra."}
+{"text": "harika bir gün geçirdim"}
+{"text": "Seni özledim uzun zamandır görüşemedik. Toplantı ertelendi saat 5e aldık."}
+{"text": "Annem seni soruyor yakında uğra."}
+{"text": "sunum nasıl gitti"}
+{"prompt": "Online", "completion": "mı yoksa ofiste mi buluşuyoruz?", "full_text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "online mı yoksa yüz yüze mi"}
+{"text": "doğum günün kutlu olsun"}
+{"prompt": "Haftasonu piknik var", "completion": "gelebilir misin?", "full_text": "Haftasonu piknik var gelebilir misin?"}
+{"prompt": "hangi restoranda", "completion": "buluşalım", "full_text": "hangi restoranda buluşalım"}
+{"prompt": "doktora gitmem", "completion": "lazım", "full_text": "doktora gitmem lazım"}
+{"text": "Kardeşim de geliyor seni görmek istiyor. Stresli bir gün geçirdim dinlenmem lazım."}
+{"text": "Haftasonu piknik var gelebilir misin?"}
+{"prompt": "bugün", "completion": "çok yoruldum", "full_text": "bugün çok yoruldum"}
+{"prompt": "Uygulama güncellendi şimdi", "completion": "daha iyi.", "full_text": "Uygulama güncellendi şimdi daha iyi."}
+{"prompt": "selam ne var", "completion": "ne yok", "full_text": "selam ne var ne yok"}
+{"prompt": "o ürünü", "completion": "aldın mı sonunda", "full_text": "o ürünü aldın mı sonunda"}
+{"prompt": "ilaçlarını", "completion": " aldın mı bugün", "full_text": "ilaçlarını aldın mı bugün"}
+{"prompt": "iyi", "completion": "günler kolay gelsin", "full_text": "iyi günler kolay gelsin"}
+{"prompt": "Bana bir kahve", "completion": "alabilir misin lütfen?", "full_text": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "bugün biraz hasta hissettim"}
+{"prompt": "Geçmiş olsun çabuk", "completion": "iyileşirsin umarım.", "full_text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Şifreni unuttuysan sıfır", "output": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika iş çıkardın ger", "output": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"prompt": "Harika", "completion": "iş çıkardın gerçekten çok iyiydi.", "full_text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "Şifreni unuttuysan sıfırla tekrar gir. Müzik kulağıma küpe oldu o şarkı."}
+{"text": "Toplantı ertelendi saat 5e aldık. Harika haber tebrikler çok mutlu oldum."}
+{"prompt": "Restoran rezervasyonu yaptım", "completion": "akşama.", "full_text": "Restoran rezervasyonu yaptım akşama."}
+{"prompt": "az sonra", "completion": " geliyorum bekle beni", "full_text": "az sonra geliyorum bekle beni"}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz? Nasılsın uzun zamandır görüşemedik?"}
+{"prompt": "geçmiş olsun umarım", "completion": "iyileşirsin", "full_text": "geçmiş olsun umarım iyileşirsin"}
+{"prompt": "Müzik kulağıma", "completion": "küpe oldu o şarkı.", "full_text": "Müzik kulağıma küpe oldu o şarkı."}
+{"text": "Sana önemli bir şey söyleyecektim."}
+{"text": "Toplantı ertelendi saat 5e aldık."}
+{"prompt": "Online mı yoksa ofiste mi", "completion": "buluşuyoruz?", "full_text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Şifreni unuttuysan sı", "output": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"prompt": "Biraz hasta hissediyorum bugün", "completion": "evdeyim.", "full_text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "Bugün müsait değilim yarın konuşalım."}
+{"text": "az sonra geliyorum"}
+{"prompt": "haftasonu ne", "completion": "yapıyorsun", "full_text": "haftasonu ne yapıyorsun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirim var bugün alı", "output": "İndirim var bugün alışverişe çıkalım mı?"}
+{"prompt": "Konser çok iyiydi keşke sen de", "completion": "gelseydin.", "full_text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "hey iyi misin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Arkadaşlar buluşuy", "output": "Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "çay", "completion": "içmeye gelelim mi", "full_text": "çay içmeye gelelim mi"}
+{"text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"text": "çay içmeye gelelim mi"}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "Çay içmeye gelir misin bir ara?"}
+{"prompt": "Çok", "completion": "iyiyim teşekkür ederim.", "full_text": "Çok iyiyim teşekkür ederim."}
+{"text": "yorgun ama mutluyum"}
+{"prompt": "Telefonu şarj etmeyi", "completion": "unutma bitecek.", "full_text": "Telefonu şarj etmeyi unutma bitecek."}
+{"text": "Raporu gönderdim kontrol edebilir misin?"}
+{"text": "konser biletleri aldım"}
+{"prompt": "Doktor randevusu", "completion": "aldım cuma günü.", "full_text": "Doktor randevusu aldım cuma günü."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Annem seni soruyor y", "output": "Annem seni soruyor yakında uğra."}
+{"text": "Sınav çok zordu ama bence iyi geçti. Proje son aşamada bitiyor çok şükür."}
+{"prompt": "Haftasonu piknik var", "completion": "gelebilir misin?", "full_text": "Haftasonu piknik var gelebilir misin?"}
+{"prompt": "az", "completion": "sonra geliyorum", "full_text": "az sonra geliyorum"}
+{"text": "Proje son aşamada bitiyor çok şükür. Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"text": "Akşam ne yemek yesek pizza mı? Çok güzel olmuş ellerine sağlık."}
+{"text": "öğle arası çıkıyorum"}
+{"text": "Doktor randevusu aldım cuma günü."}
+{"text": "Toplantı ertelendi saat 5e aldık. Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi. Geçmiş olsun çabuk iyileşirsin umarım."}
+{"prompt": "Kardeşim de geliyor seni görmek", "completion": "istiyor.", "full_text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "konser biletleri aldım"}
+{"prompt": "yorgun", "completion": "ama mutluyum", "full_text": "yorgun ama mutluyum"}
+{"prompt": "Çok yoruldum ama iş bitti", "completion": "nihayet.", "full_text": "Çok yoruldum ama iş bitti nihayet."}
+{"prompt": "toplantı saat", "completion": " kaçta başlıyor", "full_text": "toplantı saat kaçta başlıyor"}
+{"text": "Doktor randevusu aldım cuma günü. Kardeşim de geliyor seni görmek istiyor."}
+{"text": "bugün biraz hasta hissettim"}
+{"text": "akşam ne yapıyorsun"}
+{"text": "şifre yanlış tekrar dene"}
+{"text": "bugün çok yoruldum"}
+{"text": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"text": "geçmiş olsun umarım iyileşirsin"}
+{"text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"text": "buluşma saatini değiştirelim mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın saat 10da buluşa", "output": "Yarın saat 10da buluşalım tamam mı?"}
+{"prompt": "Stresli bir", "completion": "gün geçirdim dinlenmem lazım.", "full_text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"text": "Markete gidiyorum bir şey lazım mı? Harika iş çıkardın gerçekten çok iyiydi."}
+{"prompt": "Online mı yoksa", "completion": "ofiste mi buluşuyoruz?", "full_text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "görüşmek üzere"}
+{"prompt": "Çok yoruldum ama iş", "completion": "bitti nihayet.", "full_text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "iyi geceler"}
+{"text": "akşam pizza söyleyelim mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Trafikte kaldım 20 dak", "output": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Doktor randevusu ald", "output": "Doktor randevusu aldım cuma günü."}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz? Güzel bir gün geçirdik tekrar edelim."}
+{"text": "film başlıyor hazır mısın"}
+{"prompt": "neredesin şu", "completion": "an", "full_text": "neredesin şu an"}
+{"text": "Annem seni soruyor yakında uğra."}
+{"text": "nbr ne haber"}
+{"text": "Biraz hasta hissediyorum bugün evdeyim. Hava soğudu mont giy üşüme."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni aradım ama açma", "output": "Seni aradım ama açmadın ne oldu?"}
+{"prompt": "Markete gidiyorum bir şey", "completion": "lazım mı?", "full_text": "Markete gidiyorum bir şey lazım mı?"}
+{"text": "Annem seni soruyor yakında uğra."}
+{"text": "uygulamayı indirdin mi"}
+{"prompt": "günaydın nasıl", "completion": "sın bugün", "full_text": "günaydın nasılsın bugün"}
+{"prompt": "Kardeşim de geliyor seni görmek", "completion": "istiyor.", "full_text": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "İndirim var bugün alışverişe çıkalım mı? Müzik kulağıma küpe oldu o şarkı."}
+{"text": "annem seni soruyor"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sana önemli bir şey sö", "output": "Sana önemli bir şey söyleyecektim."}
+{"text": "Bana bir kahve alabilir misin lütfen?"}
+{"prompt": "internet", "completion": " çekmiyor burada sinyal yok", "full_text": "internet çekmiyor burada sinyal yok"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Uygulama güncellen", "output": "Uygulama güncellendi şimdi daha iyi."}
+{"text": "Annem seni soruyor yakında uğra."}
+{"text": "kardeşim de geliyor"}
+{"prompt": "indirim", "completion": "var bugün", "full_text": "indirim var bugün"}
+{"prompt": "Harika haber", "completion": "tebrikler çok mutlu oldum.", "full_text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "Proje son aşamada bitiyor çok şükür. Restoran rezervasyonu yaptım akşama."}
+{"text": "haftasonu ne yapıyorsun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Proje son aşamada bi", "output": "Proje son aşamada bitiyor çok şükür."}
+{"text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "yorgun", "completion": "ama mutluyum", "full_text": "yorgun ama mutluyum"}
+{"text": "Bugün müsait değilim yarın konuşalım. Bugün müsait değilim yarın konuşalım."}
+{"text": "günaydın nasıl geçti"}
+{"prompt": "Restoran rezervasyonu yaptım", "completion": "akşama.", "full_text": "Restoran rezervasyonu yaptım akşama."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Kardeşim de geliyor se", "output": "Kardeşim de geliyor seni görmek istiyor."}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "Çok yoruldum", "completion": "ama iş bitti nihayet.", "full_text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "kendine iyi bak"}
+{"prompt": "annem seni", "completion": "soruyor", "full_text": "annem seni soruyor"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Telefonu şarj etmeyi ", "output": "Telefonu şarj etmeyi unutma bitecek."}
+{"text": "Film biletlerini aldım saat 8de başlıyor. Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "seni özledim"}
+{"prompt": "Sabah koşusu yaptım çok iyi", "completion": "hissettim.", "full_text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sabah koşusu yaptım ", "output": "Sabah koşusu yaptım çok iyi hissettim."}
+{"prompt": "yarın sinemaya", "completion": "gidelim mi", "full_text": "yarın sinemaya gidelim mi"}
+{"text": "Masraf çok oldu ama değdi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Proje son aşamada ", "output": "Proje son aşamada bitiyor çok şükür."}
+{"prompt": "proje teslimi", "completion": " yarın gece yarısı", "full_text": "proje teslimi yarın gece yarısı"}
+{"text": "neredesin şu an gelebilir misin"}
+{"prompt": "Çay içmeye gelir", "completion": "misin bir ara?", "full_text": "Çay içmeye gelir misin bir ara?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Harika haber tebrikler ", "output": "Harika haber tebrikler çok mutlu oldum."}
+{"prompt": "Aile toplantısı var cumartesi", "completion": "unutma.", "full_text": "Aile toplantısı var cumartesi unutma."}
+{"prompt": "uygulamayı indirdin", "completion": "mi", "full_text": "uygulamayı indirdin mi"}
+{"text": "naber iyimisin"}
+{"prompt": "Bugün hava çok güzel yürüyüşe çıkalım", "completion": "mı?", "full_text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "Nasılsın uzun", "completion": "zamandır görüşemedik?", "full_text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "Seni özledim uzun zamandır görüşemedik. Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "Geçmiş", "completion": "olsun çabuk iyileşirsin umarım.", "full_text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "Sana önemli bir şey söyleyecektim. Çok iyiyim teşekkür ederim."}
+{"prompt": "Uygulama", "completion": "güncellendi şimdi daha iyi.", "full_text": "Uygulama güncellendi şimdi daha iyi."}
+{"prompt": "sunum", "completion": "nasıl gitti", "full_text": "sunum nasıl gitti"}
+{"prompt": "uygulamayı", "completion": "indirdin mi", "full_text": "uygulamayı indirdin mi"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Özür dilerim geç kaldım yo", "output": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"text": "iyi geceler tatlı rüyalar"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirim var bugün alışve", "output": "İndirim var bugün alışverişe çıkalım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Masraf çok old", "output": "Masraf çok oldu ama değdi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirimde aldım çok uc", "output": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"text": "annem seni soruyor"}
+{"prompt": "aile", "completion": "toplantısı var", "full_text": "aile toplantısı var"}
+{"prompt": "Seni aradım", "completion": "ama açmadın ne oldu?", "full_text": "Seni aradım ama açmadın ne oldu?"}
+{"text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Yarın saat 10da bul", "output": "Yarın saat 10da buluşalım tamam mı?"}
+{"text": "Düşün bakalım karar verelim."}
+{"prompt": "Raporu", "completion": "gönderdim kontrol edebilir misin?", "full_text": "Raporu gönderdim kontrol edebilir misin?"}
+{"prompt": "Proje son aşamada bitiyor", "completion": "çok şükür.", "full_text": "Proje son aşamada bitiyor çok şükür."}
+{"text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"prompt": "Güzel bir gün geçirdik", "completion": "tekrar edelim.", "full_text": "Güzel bir gün geçirdik tekrar edelim."}
+{"text": "Şifreni unuttuysan sıfırla tekrar gir. Trafikte kaldım 20 dakika geç kalacağım."}
+{"text": "Konser çok iyiydi keşke sen de gelseydin."}
+{"text": "Nasılsın uzun zamandır görüşemedik? Toplantı ertelendi saat 5e aldık."}
+{"text": "Çok teşekkür ederim yardımın için. Özür dilerim geç kaldım yolda trafik vardı."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Trafikte kaldım 20 dakik", "output": "Trafikte kaldım 20 dakika geç kalacağım."}
+{"prompt": "Akşam ne", "completion": "yemek yesek pizza mı?", "full_text": "Akşam ne yemek yesek pizza mı?"}
+{"prompt": "Nasılsın uzun", "completion": "zamandır görüşemedik?", "full_text": "Nasılsın uzun zamandır görüşemedik?"}
+{"text": "aile toplantısı var"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün hava çok güzel", "output": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Biraz hasta hissediyor", "output": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "Çok güzel olmuş ellerine sağlık."}
+{"text": "fiyat çok pahalı değil mi"}
+{"text": "neredesin şu an"}
+{"prompt": "harika", "completion": "bir gün geçirdim", "full_text": "harika bir gün geçirdim"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Akşam ne yemek yes", "output": "Akşam ne yemek yesek pizza mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sınav çok zordu ama be", "output": "Sınav çok zordu ama bence iyi geçti."}
+{"prompt": "sunum", "completion": "nasıl gitti", "full_text": "sunum nasıl gitti"}
+{"text": "Sana önemli bir şey söyleyecektim. Sabah koşusu yaptım çok iyi hissettim."}
+{"text": "yorgun ama mutluyum"}
+{"text": "Masraf çok oldu ama değdi. Güzel bir gün geçirdik tekrar edelim."}
+{"text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "konser biletleri", "completion": "aldım", "full_text": "konser biletleri aldım"}
+{"prompt": "Harika haber", "completion": "tebrikler çok mutlu oldum.", "full_text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "İndirim var bugün alışverişe çıkalım mı? Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "Bugün hava çok güzel yürüyüşe çıkalım mı? Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "o ürünü aldın", "completion": "mı sonunda", "full_text": "o ürünü aldın mı sonunda"}
+{"text": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "Akşam ne yemek yesek pizza mı?"}
+{"text": "Çok iyiyim teşekkür ederim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Markete gidiyorum ", "output": "Markete gidiyorum bir şey lazım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün müsait değili", "output": "Bugün müsait değilim yarın konuşalım."}
+{"prompt": "haftasonu ne", "completion": "yapıyorsun", "full_text": "haftasonu ne yapıyorsun"}
+{"prompt": "Düşün bakalım karar", "completion": "verelim.", "full_text": "Düşün bakalım karar verelim."}
+{"text": "harika haber"}
+{"text": "Arkadaşlar buluşuyor sen de katıl. Restoran rezervasyonu yaptım akşama."}
+{"text": "biraz stresli hissediyorum"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Düşün bakalım kar", "output": "Düşün bakalım karar verelim."}
+{"text": "hadi kolay gelsin"}
+{"prompt": "Bugün", "completion": "hava çok güzel yürüyüşe çıkalım mı?", "full_text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"text": "Stresli bir gün geçirdim dinlenmem lazım. Markete gidiyorum bir şey lazım mı?"}
+{"prompt": "hey", "completion": "iyi misin", "full_text": "hey iyi misin"}
+{"prompt": "Tamam", "completion": "yarın devam ederiz iyi geceler.", "full_text": "Tamam yarın devam ederiz iyi geceler."}
+{"text": "internet çekmiyor burada"}
+{"text": "akşam yemek yiyelim mi"}
+{"prompt": "Şifreni unuttuysan sıfırla tekrar", "completion": "gir.", "full_text": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"text": "Markete gidiyorum bir şey lazım mı? Uygulama güncellendi şimdi daha iyi."}
+{"text": "Ödev var mı yarın teslim mi?"}
+{"text": "Haftasonu piknik var gelebilir misin?"}
+{"prompt": "Online", "completion": "mı yoksa ofiste mi buluşuyoruz?", "full_text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "merhaba günaydın"}
+{"prompt": "üzgünüm özür", "completion": "dilerim", "full_text": "üzgünüm özür dilerim"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni aradım ama ", "output": "Seni aradım ama açmadın ne oldu?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Uygulama güncellendi", "output": "Uygulama güncellendi şimdi daha iyi."}
+{"prompt": "Düşün bakalım", "completion": "karar verelim.", "full_text": "Düşün bakalım karar verelim."}
+{"text": "ilaçlarını aldın mı"}
+{"text": "çok teşekkür ederim"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Tamam yarın devam eder", "output": "Tamam yarın devam ederiz iyi geceler."}
+{"prompt": "indirim var", "completion": "bugün", "full_text": "indirim var bugün"}
+{"text": "bugün toplantı var mı"}
+{"prompt": "yarın", "completion": "buluşalım mı", "full_text": "yarın buluşalım mı"}
+{"text": "Sabah koşusu yaptım çok iyi hissettim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Masraf çok oldu am", "output": "Masraf çok oldu ama değdi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Nasılsın uzun zamandır", "output": "Nasılsın uzun zamandır görüşemedik?"}
+{"prompt": "Raporu gönderdim kontrol edebilir", "completion": "misin?", "full_text": "Raporu gönderdim kontrol edebilir misin?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Düşün bakalım ka", "output": "Düşün bakalım karar verelim."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Annem seni soruyor y", "output": "Annem seni soruyor yakında uğra."}
+{"text": "yarın buluşalım mı"}
+{"text": "Film biletlerini aldım saat 8de başlıyor."}
+{"text": "sunum nasıl gitti"}
+{"text": "yarın buluşalım mı"}
+{"prompt": "Bugün hava", "completion": "çok güzel yürüyüşe çıkalım mı?", "full_text": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"prompt": "İndirim var bugün alışverişe", "completion": "çıkalım mı?", "full_text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Proje son aşamada ", "output": "Proje son aşamada bitiyor çok şükür."}
+{"text": "merhaba nasılsın"}
+{"text": "Müzik kulağıma küpe oldu o şarkı."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Film biletlerini aldım ", "output": "Film biletlerini aldım saat 8de başlıyor."}
+{"prompt": "Çok güzel", "completion": "olmuş ellerine sağlık.", "full_text": "Çok güzel olmuş ellerine sağlık."}
+{"prompt": "stresli", "completion": " hissediyorum biraz", "full_text": "stresli hissediyorum biraz"}
+{"text": "Harika iş çıkardın gerçekten çok iyiydi."}
+{"text": "biraz stresli hissediyorum"}
+{"prompt": "şifre yanlış tekrar", "completion": "dene", "full_text": "şifre yanlış tekrar dene"}
+{"text": "Telefonu şarj etmeyi unutma bitecek. Tamam yarın devam ederiz iyi geceler."}
+{"text": "internet çekmiyor burada"}
+{"text": "iyi geceler"}
+{"text": "Düşün bakalım karar verelim. Yarın erken kalkman gerekiyor dikkat et."}
+{"prompt": "nbr", "completion": "ne haber", "full_text": "nbr ne haber"}
+{"text": "Tamam yarın devam ederiz iyi geceler."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni özledim uzun zam", "output": "Seni özledim uzun zamandır görüşemedik."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Hava soğudu mont", "output": "Hava soğudu mont giy üşüme."}
+{"text": "çok yorgunum ama bitirdim"}
+{"prompt": "Proje", "completion": "son aşamada bitiyor çok şükür.", "full_text": "Proje son aşamada bitiyor çok şükür."}
+{"text": "Müzik kulağıma küpe oldu o şarkı."}
+{"prompt": "Raporu gönderdim", "completion": "kontrol edebilir misin?", "full_text": "Raporu gönderdim kontrol edebilir misin?"}
+{"text": "Uygulama güncellendi şimdi daha iyi."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün hava çok güzel", "output": "Bugün hava çok güzel yürüyüşe çıkalım mı?"}
+{"prompt": "annem seni", "completion": "soruyor", "full_text": "annem seni soruyor"}
+{"text": "akşam yemek yiyelim mi"}
+{"text": "Düşün bakalım karar verelim. Restoran rezervasyonu yaptım akşama."}
+{"prompt": "kendine", "completion": "iyi bak", "full_text": "kendine iyi bak"}
+{"text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "uygulamayı indirdin mi"}
+{"prompt": "annem seni", "completion": "soruyor", "full_text": "annem seni soruyor"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok iyiyim teşekkü", "output": "Çok iyiyim teşekkür ederim."}
+{"text": "arkadaşlar buluşuyor katılıyor musun"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Masraf çok oldu ", "output": "Masraf çok oldu ama değdi."}
+{"prompt": "Sana önemli bir şey", "completion": "söyleyecektim.", "full_text": "Sana önemli bir şey söyleyecektim."}
+{"text": "Raporu gönderdim kontrol edebilir misin?"}
+{"text": "Restoran rezervasyonu yaptım akşama."}
+{"text": "Online mı yoksa ofiste mi buluşuyoruz?"}
+{"text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "Telefonu şarj etmeyi unutma bitecek."}
+{"prompt": "öğle arası", "completion": "çıkıyorum", "full_text": "öğle arası çıkıyorum"}
+{"text": "fiyat çok pahalı değil mi"}
+{"text": "Yarın saat 10da buluşalım tamam mı?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bana bir kahve alabili", "output": "Bana bir kahve alabilir misin lütfen?"}
+{"prompt": "Film biletlerini aldım saat 8de", "completion": "başlıyor.", "full_text": "Film biletlerini aldım saat 8de başlıyor."}
+{"prompt": "Çok iyiyim", "completion": "teşekkür ederim.", "full_text": "Çok iyiyim teşekkür ederim."}
+{"prompt": "toplantı saat", "completion": "3te", "full_text": "toplantı saat 3te"}
+{"prompt": "Stresli bir gün", "completion": "geçirdim dinlenmem lazım.", "full_text": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Seni özledim uzun zamand", "output": "Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "nbr", "completion": "ne haber", "full_text": "nbr ne haber"}
+{"text": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"prompt": "indirim", "completion": "var bugün", "full_text": "indirim var bugün"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çay içmeye gelir mis", "output": "Çay içmeye gelir misin bir ara?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Arkadaşlar buluşuyor ", "output": "Arkadaşlar buluşuyor sen de katıl."}
+{"prompt": "Seni özledim uzun zamandır", "completion": "görüşemedik.", "full_text": "Seni özledim uzun zamandır görüşemedik."}
+{"text": "iyi günler kolay gelsin"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Telefonu şarj etmeyi un", "output": "Telefonu şarj etmeyi unutma bitecek."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Geçmiş olsun çabuk iy", "output": "Geçmiş olsun çabuk iyileşirsin umarım."}
+{"text": "Bugün müsait değilim yarın konuşalım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "İndirimde aldım çok ucu", "output": "İndirimde aldım çok ucuzdu inanılmaz."}
+{"prompt": "Arkadaşlar buluşuyor sen de", "completion": "katıl.", "full_text": "Arkadaşlar buluşuyor sen de katıl."}
+{"text": "hangi restoranda buluşalım"}
+{"text": "Akşam ne yemek yesek pizza mı? Seni özledim uzun zamandır görüşemedik."}
+{"prompt": "iyi", "completion": "günler kolay gelsin", "full_text": "iyi günler kolay gelsin"}
+{"text": "bu hafta sonu piknik var"}
+{"prompt": "Sınav çok zordu ama bence", "completion": "iyi geçti.", "full_text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "şifre yanlış tekrar dene"}
+{"text": "Aile toplantısı var cumartesi unutma."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok yoruldum ama iş b", "output": "Çok yoruldum ama iş bitti nihayet."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Hava soğudu mo", "output": "Hava soğudu mont giy üşüme."}
+{"text": "nbr ne haber"}
+{"prompt": "Sınav çok zordu ama bence", "completion": "iyi geçti.", "full_text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "tamam görüşürüz"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çok yoruldum ama iş ", "output": "Çok yoruldum ama iş bitti nihayet."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Raporu gönderdim kon", "output": "Raporu gönderdim kontrol edebilir misin?"}
+{"prompt": "İndirim", "completion": "var bugün alışverişe çıkalım mı?", "full_text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"text": "Akşam ne yemek yesek pizza mı?"}
+{"text": "o ürünü aldın mı sonunda"}
+{"text": "stresli hissediyorum biraz"}
+{"text": "Şifreni unuttuysan sıfırla tekrar gir."}
+{"prompt": "geçmiş olsun", "completion": "umarım iyileşirsin", "full_text": "geçmiş olsun umarım iyileşirsin"}
+{"text": "Çok iyiyim teşekkür ederim."}
+{"text": "Harika haber tebrikler çok mutlu oldum."}
+{"text": "üzgünüm özür dilerim"}
+{"text": "Çok yoruldum ama iş bitti nihayet."}
+{"text": "Akşam ne yemek yesek pizza mı? Stresli bir gün geçirdim dinlenmem lazım."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Güzel bir gün geçirdik ", "output": "Güzel bir gün geçirdik tekrar edelim."}
+{"text": "Geçmiş olsun çabuk iyileşirsin umarım. Hava soğudu mont giy üşüme."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Çay içmeye gelir ", "output": "Çay içmeye gelir misin bir ara?"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Stresli bir gün geçir", "output": "Stresli bir gün geçirdim dinlenmem lazım."}
+{"prompt": "Sınav", "completion": "çok zordu ama bence iyi geçti.", "full_text": "Sınav çok zordu ama bence iyi geçti."}
+{"text": "telefonu güncelle bak"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Biraz hasta hissediyo", "output": "Biraz hasta hissediyorum bugün evdeyim."}
+{"prompt": "buluşma saatini", "completion": "değiştirelim mi", "full_text": "buluşma saatini değiştirelim mi"}
+{"text": "akşam ne yapıyorsun"}
+{"text": "neredesin şu an"}
+{"prompt": "yorgun", "completion": "ama mutluyum", "full_text": "yorgun ama mutluyum"}
+{"prompt": "Çay içmeye gelir misin", "completion": "bir ara?", "full_text": "Çay içmeye gelir misin bir ara?"}
+{"text": "indirim var bugün"}
+{"prompt": "Masraf çok oldu ama", "completion": "değdi.", "full_text": "Masraf çok oldu ama değdi."}
+{"text": "yarın sinemaya gidelim mi"}
+{"prompt": "Bana bir kahve", "completion": "alabilir misin lütfen?", "full_text": "Bana bir kahve alabilir misin lütfen?"}
+{"text": "akşam pizza söyleyelim mi"}
+{"text": "İndirim var bugün alışverişe çıkalım mı?"}
+{"prompt": "biraz", "completion": "stresli hissediyorum", "full_text": "biraz stresli hissediyorum"}
+{"prompt": "Toplantı ertelendi saat 5e", "completion": "aldık.", "full_text": "Toplantı ertelendi saat 5e aldık."}
+{"text": "sınav çok zordu"}
+{"text": "Yarın erken kalkman gerekiyor dikkat et."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Ödev var mı yarı", "output": "Ödev var mı yarın teslim mi?"}
+{"text": "Seni aradım ama açmadın ne oldu? Konser çok iyiydi keşke sen de gelseydin."}
+{"prompt": "Telefonu şarj etmeyi", "completion": "unutma bitecek.", "full_text": "Telefonu şarj etmeyi unutma bitecek."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Annem seni soruyor ya", "output": "Annem seni soruyor yakında uğra."}
+{"prompt": "Biraz hasta", "completion": "hissediyorum bugün evdeyim.", "full_text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "Biraz hasta hissediyorum bugün evdeyim."}
+{"text": "indirim var bugün"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Sana önemli bir ş", "output": "Sana önemli bir şey söyleyecektim."}
+{"prompt": "hangi", "completion": "restoranda buluşalım", "full_text": "hangi restoranda buluşalım"}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Doktor randevusu a", "output": "Doktor randevusu aldım cuma günü."}
+{"prompt": "neredesin", "completion": "şu an", "full_text": "neredesin şu an"}
+{"text": "Özür dilerim geç kaldım yolda trafik vardı."}
+{"instruction": "Türkçe mesajı tamamla:", "input": "Bugün müsait değilim ", "output": "Bugün müsait değilim yarın konuşalım."}
